@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ma'arij Abdul Qadir, Final Year student of Software Engineering.
+- 👋 Hi, I’m Ma'arij Abdul Qadir, a recent Software Engineering graduate, currently working as a developer on flutter/dart.
 - 👀 I’m interested in developing some strong & impactful softwares that amaze & help masses and give them a unique experience and joy of using.
-- 🌱 I’m currently learning Mobile Developemnt in **Flutter** as a part of my Final Year Project and previously also had been in a romantic relationship with java.
+- 🌱 I’m currently developing a WhatsApp like chat application in **Flutter & Dart** with node.js as backend, for my company and previously had been in a romantic relationship with java.
 - 💞️ I’m looking to collaborate on something big and intriguing...
 - 📫 Reach me at mack4009@gmail.com.
 
