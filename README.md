@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ma'arij Abdul Qadir, a graduate in Software Engineering , currently working as a Junior Software Engineer, leveraging Flutter & Dart.
-- 👀 I’m interested in developing some strong & impactful softwares that amaze & help masses and give them a unique experience and joy of using.
+- 👋 Hi, I’m Ma'arij Abdul Qadir, a graduate in Software Engineering from FAST-NUCES , currently working as a Junior Software Engineer, leveraging Flutter & Dart.
+- 👀 I’m interested in developing some strong & impactful mobile applications that amaze & help masses and give them a unique experience and joy of using.
 - 🌱 I’m currently working on a WhatsApp like chat application in **Flutter & Dart** with node.js as backend, for my company and previously had been in a romantic relationship with java.
 - 💞️ I’m looking to collaborate on something big and intriguing and is always open to work...
 - 📫 Reach me at mack4009@gmail.com.
